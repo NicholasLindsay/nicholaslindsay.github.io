@@ -4,6 +4,8 @@ title: "Nicholas (Nick) Lindsay"
 permalink: /
 author_profile: true
 hide_title: true
+masthead:
+    title: " "
 # Optional: control sidebar, masthead, etc. e.g.:
 # sidebar: false
 # masthead:
