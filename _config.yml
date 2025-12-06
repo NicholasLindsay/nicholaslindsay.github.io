@@ -11,3 +11,27 @@ include:
   - _pages
 
 markdown: kramdown
+
+# Enable author profile on the sidebar
+author:
+  name: "Nicholas (Nick) Lindsay"
+  # avatar: "/assets/images/your-photo.jpg"  # TODO: add photo
+  bio: "Computer architect and researcher."
+
+  # Social links (details in next section)
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:nick.lindsay@yale.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/nick-a-lindsay/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/NicholasLindsay"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=x5fkrGQAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"   # special icon for ORCID
+      url: "https://orcid.org/0009-0001-6478-3185"
