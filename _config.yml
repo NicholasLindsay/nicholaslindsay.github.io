@@ -19,8 +19,8 @@ markdown: kramdown
 # Enable author profile on the sidebar
 author:
   name: "Nicholas (Nick) Lindsay"
-  # avatar: "/assets/images/your-photo.jpg"  # TODO: add photo
-  bio: "Computer architect and researcher."
+  avatar: "/assets/images/portrait.jpg"
+  bio: "Graduate Researcher (Ph. D.)<br>Yale University"
 
   # Social links (details in next section)
   links:
