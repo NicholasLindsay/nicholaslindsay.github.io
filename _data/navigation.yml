@@ -1,0 +1,6 @@
+# Top masthead navigation shown site-wide by the Minimal Mistakes theme
+- title: "About"
+  url: /
+
+- title: "Publications"
+  url: /publications/
