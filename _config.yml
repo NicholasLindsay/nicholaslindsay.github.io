@@ -7,6 +7,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+# Enable Academic Icons (required for ORCID, Google Scholar, ResearchGate, etc.)
+minimal_mistakes_skin: default
+use_academic_icons: true
+
 include:
   - _pages
 
