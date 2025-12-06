@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 **CounterPoint: Using Hardware Event Counters to Refute and Refine Microarchitectural Assumptions.** <br/>
 **Nick Lindsay**, Caroline Trippel, Anurag Khandelwal, Abhishek Bhattacharjee. <br/>
 In ASPLOS 2026 (to appear).
