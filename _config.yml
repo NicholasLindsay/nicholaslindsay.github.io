@@ -26,7 +26,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nick-a-lindsay/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/NicholasLindsay"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=x5fkrGQAAAAJ"
     - label: "ORCID"
       icon: "ai ai-orcid"   # special icon for ORCID
       url: "https://orcid.org/0009-0001-6478-3185"
-
