@@ -2,6 +2,7 @@
 layout: single
 title: Publications
 permalink: /publications/
+author_profile: true
 ---
 
 **CounterPoint: Using Hardware Event Counters to Refute and Refine Microarchitectural Assumptions.** <br/>
