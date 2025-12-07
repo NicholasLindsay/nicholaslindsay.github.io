@@ -160,6 +160,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets/css
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -305,7 +306,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -319,3 +319,8 @@ defaults:
       comments: # true
       share: true
       related: true
+  # override css
+  - scope:
+      path: ""
+    values:
+      css: ["assets/css/custom.css"]

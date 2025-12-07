@@ -1,8 +1,0 @@
-    // Override default font size variables
-    $base-font-size: 10px; // Adjust this value for the base text size
-    $type-size-1: 2.0em;
-    $type-size-2: 1.6em;
-    // ... adjust other $type-size-N variables as needed
-
-    @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-    @import "minimal-mistakes"; // theme
