@@ -16,5 +16,5 @@ In 2024 IEEE International Symposium on Workload Characterization (IISWC). Vanco
 
 **Balancing Specialized Versus Flexible Computation in Brain–Computer Interfaces** <br/>
 *Karageorgos, Ioannis, Karthik Sriram, Xiayuan Wen, Ján Veselý, **Nick Lindsay**, Michael Wu, Lenny Khazan. Raghavendra Pothukuchi, Rajit Manohar and Abhishek Bhattacharjee.* <br/>
-In IEEE Micro 2021 <br/>
+In IEEE Micro 2021. <br/>
 [[PDF](https://ieeexplore.ieee.org/ielaam/40/9440735/9376262-aam.pdf?tag=1) | [bibtex](/assets/bib/sriram2021balancing.bib)]

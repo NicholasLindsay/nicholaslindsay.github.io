@@ -15,3 +15,5 @@ I am a Ph. D. candidate in the [Yale CS Department](https://engineering.yale.edu
 My research focuses on microarchitecture and formal methods, with an emphasis on the hardware-software interface.
 I have developed software tools which increase the interpretibility of hardware event counters for architects, software developers, and researchers.
 I have used these tools to decipher undocumented and ambiguously documented features in a CPU microarchitecture.
+
+[[Download my resume]]({{ '/assets/files/resume.pdf' | relative_url }})
