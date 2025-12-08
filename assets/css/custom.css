@@ -1,3 +1,23 @@
 .page__content {
     font-size: 18px;
 }
+
+.masthead {
+    font-size: 26px !important;
+}
+
+/* Make avatar circular and bigger */
+.author__avatar img {
+    width: 180px !important;
+    /* increase size */
+    height: 180px !important;
+    /* make it a square */
+    border-radius: 50% !important;
+    /* make it circular */
+    object-fit: cover;
+    /* crop nicely if needed */
+}
+
+.author__avatar {
+    text-align: center;
+}
