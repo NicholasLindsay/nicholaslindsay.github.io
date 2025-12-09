@@ -5,3 +5,8 @@
 .masthead {
     font-size: 22px !important;
 }
+
+.author_avatar>.u_photo {
+    width: 100%;
+    height: auto;
+}
