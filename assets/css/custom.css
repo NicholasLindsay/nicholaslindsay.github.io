@@ -6,7 +6,7 @@
     font-size: 22px !important;
 }
 
-.author_avatar>.u-photo {
-    width: 100% !important;
+.author__avatar>.u-photo {
+    width: 150px !important;
     height: auto !important;
 }
