@@ -128,6 +128,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/NicholasLindsay"
+    - label: "Resume"
+      icon: "far fa-file-pdf"
+      url: "/assets/files/resume.pdf"
+      new_window: true
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=x5fkrGQAAAAJ"
@@ -147,6 +151,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/NicholasLindsay"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/assets/files/resume.pdf"
+      new_window: true
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=x5fkrGQAAAAJ"
