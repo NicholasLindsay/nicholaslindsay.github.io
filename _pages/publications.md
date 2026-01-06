@@ -7,7 +7,8 @@ author_profile: true
 
 **CounterPoint: Using Hardware Event Counters to Refute and Refine Microarchitectural Assumptions.** <br/>
 ***Nick Lindsay***, *Caroline Trippel, Anurag Khandelwal, Abhishek Bhattacharjee.* <br/>
-To appear in 2026 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Pittsburgh, USA.
+To appear in 2026 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Pittsburgh, USA. <br/>
+[[arXiv (extended version)](https://arxiv.org/abs/2601.01265)]
 
 **Understanding Address Translation Scaling Behaviours Using Hardware Performance Counters.** <br/>
 ***Nick Lindsay***, *Abhishek Bhattacharjee.* <br/>
