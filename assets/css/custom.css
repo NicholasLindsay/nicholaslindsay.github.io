@@ -9,3 +9,10 @@
 .author__avatar img {
     max-width: 170px !important;
 }
+
+@media (min-width: 64em) {
+    .page {
+        float: inline-end;
+        padding-inline-end: 0;
+    }
+}
