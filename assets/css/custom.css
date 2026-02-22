@@ -16,3 +16,8 @@
         padding-inline-end: 0;
     }
 }
+
+a {
+    color: black;
+    font-weight: bold;
+}
