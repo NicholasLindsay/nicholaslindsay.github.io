@@ -19,8 +19,9 @@ I have developed **CounterPoint** - a modeling framework that helps experts test
 CounterPoint applies techniques from high-dimensional convex geometry and statistics to enable a counter-example guided model refinement methodology, allow experts to reconcile their mental model of the microarchitecture with the hardware.
 Using **[CounterPoint](https://arxiv.org/abs/2601.01265)**, I have found evidence for a
 number of undocumented and underdocumented features for the memory management unit of
-Intel Haswell CPUs, including a TLB prefetcher, early paging-structure cache lookup, and
-mergable page table walks.
+Intel Haswell CPUs, including a TLB prefetcher, early paging-structure cache lookup, and mergable page table walks.
+
+I am deeply honored that my work on CounterPoint was recognized with a Best Paper Award at ASPLOS 2026, and I look forward to continuing this line of work.
 
 ### Updates
 
