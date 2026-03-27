@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3779212.3790145,
+  author    = {Lindsay, Nick and Trippel, Caroline and Khandelwal, Anurag and Bhattacharjee, Abhishek},
+  title     = {CounterPoint: Using Hardware Event Counters to Refute and Refine Microarchitectural Assumptions},
+  year      = {2026},
+  isbn      = {9798400723599},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3779212.3790145},
+  doi       = {10.1145/3779212.3790145},
+  abstract  = {Hardware event counters offer the potential to reveal not only performance bottlenecks but also detailed microarchitectural behavior. In practice, this promise is undermined by their vague specifications, opaque designs, and multiplexing noise, making event counter data hard to interpret. We introduce CounterPoint, a framework that tests user-specified microarchitectural models — expressed as $\mu$path Decision Diagrams — for consistency with performance counter data. When mismatches occur, CounterPoint pinpoints plausible microarchitectural features that could explain them, using multi-dimensional counter confidence regions to mitigate multiplexing noise. We apply CounterPoint to the Haswell Memory Management Unit as a case study, shedding light on multiple undocumented and underdocumented microarchitectural behaviors. These include a load–store queue-side TLB prefetcher, merging page table walkers, abortable page table walks, and more. Overall, CounterPoint helps experts reconcile noisy hardware performance counter measurements with their mental model of the microarchitecture - uncovering subtle, previously hidden hardware features along the way.},
+  booktitle = {Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
+  pages     = {459–475},
+  numpages  = {17},
+  keywords  = {hardware event counters, address translation},
+  location  = {USA},
+  series    = {ASPLOS '26}
+}
