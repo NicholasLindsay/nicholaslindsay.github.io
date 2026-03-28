@@ -17,7 +17,7 @@ I have developed [CounterPoint](https://dl.acm.org/doi/10.1145/3779212.3790145) 
 
 ### Updates
 
-- *March 25, 2026.* [CounterPoint](https://dl.acm.org/doi/10.1145/3779212.3790145) received the *Best Paper Award* at ASPLOS 2026!
+- *March 25, 2026.* [CounterPoint](https://dl.acm.org/doi/10.1145/3779212.3790145) received the **Best Paper Award** at ASPLOS 2026!
 - *February 22, 2026.* Delighted to accept a job offer at [AMD Research and Advanced Development](https://www.amd.com/en/corporate/research.html)!
 - *January 6, 2026*. The [extended version](https://arxiv.org/abs/2601.01265) of
   CounterPoint is available on arXiv! <br/>
