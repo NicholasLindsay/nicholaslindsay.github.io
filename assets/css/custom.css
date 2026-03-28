@@ -17,7 +17,13 @@
     }
 }
 
-a {
-    color: black;
+a,
+a:visited {
+    color: inherit;
     font-weight: bold;
+}
+
+a:hover,
+a:visited:hover {
+    color: blue;
 }
