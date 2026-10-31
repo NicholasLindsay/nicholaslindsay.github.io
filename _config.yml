@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Nicholas Lindsay"
   avatar           : "assets/images/portrait-square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate<br>CS Department<br>Yale University"
-  location         : "New Haven, CT, USA"
+  bio              : "Computer Architecture Researcher<br>Research and Advanced Development<br>Advanced Micro Devices"
+  location         : "Cambridge, UK"
   email            :
   links:
     - label: "Email"

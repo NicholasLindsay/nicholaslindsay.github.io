@@ -3,32 +3,37 @@ layout: single
 title: Experience
 permalink: /experience/
 author_profile: true
-sitemap: false
+sitemap: true
 ---
 
 ## Employment
 
-- *PhD Intern*. AMD Research. June - August 2024.
-- *Intern*. Arm Research. June - August 2018.
+- **Full Time Researcher.** AMD Research. August 2026 -
+- **Researcher (Internship)**. AMD Research. June - August 2024.
+- **Researcher (Internship)**. Arm Research. June - August 2018.
 
 ## Teaching
 
 ### Yale University
 
-- *Teaching Fellow.* Computer Architecture. Spring 2024.
-- *Teaching Fellow.* Introduction to Systems Programming and Computer Organization. Fall 2022.
-- *Teaching Fellow.* Systems Programming & Computer Organization. Spring 2021.
+- **Computer Architecture.** Teaching Fellow. Spring 2026.
+- **Computer Architecture.** Teaching Fellow. Spring 2024.
+- **Introduction to Systems Programming and Computer Organization.** Teaching Fellow. Fall 2022.
+- **Systems Programming & Computer Organization.** Teaching Fellow. Spring 2021.
 
-## Mentorship
+## Invited Talks
 
-As a graduate student at Yale University I have mentored two undergraduates (Final Year Project) and one Masters student (research).
+- **Understanding Address Translation Scaling Behaviors Using Hardware Event Counters.** [Virtuoso Workshop](https://cmu-safari.github.io/Virtuoso/workshop/asplos2026.html). ASPLOS 2026.
 
-## Professional
+## Service
 
-- *External Reviewer.* ASPLOS 2024.
+### Conferences and Journal Reviewer
 
-## Miscellaneous
+- ASPLOS 2027
+- ASPLOS 2024
 
-- *Member* of Yale Computer Science Graduate School Advistory Committee (GSC). 2025-
-- *President* of Glasgow University Robotics Society. 2018-2019.
-- *Member* of Glasgow University Robotics Society. 2017-2018.
+### Academic life
+
+- **Committee Member**. Yale Computer Science Graduate School Advistory Committee (GSAC). 2025-2026.
+- **President**. Glasgow University Robotics Society. 2018-2019.
+- **Member**. Glasgow University Robotics Society. 2017-2018.
